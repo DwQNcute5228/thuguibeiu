@@ -76,3 +76,14 @@ header h1 {
     border-radius: 40;
 }
 
+
+#foot{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.imag{
+    border-radius: 30px;
+    display: flex;
+    
+}
+
